@@ -1,0 +1,18 @@
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\bin\Debug\net6.0-windows\calculator winforms.exe
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\bin\Debug\net6.0-windows\calculator winforms.deps.json
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\bin\Debug\net6.0-windows\calculator winforms.runtimeconfig.json
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\bin\Debug\net6.0-windows\calculator winforms.dll
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\bin\Debug\net6.0-windows\calculator winforms.pdb
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator winforms.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator_winforms.Form1.resources
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator winforms.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator winforms.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator winforms.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator winforms.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator winforms.dll
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\refint\calculator winforms.dll
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator winforms.pdb
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator winforms.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\ref\calculator winforms.dll
+C:\Users\USUARIO\Desktop\visual studio programs\calculator winforms\calculator winforms\obj\Debug\net6.0-windows\calculator_winforms.Properties.Resources.resources
